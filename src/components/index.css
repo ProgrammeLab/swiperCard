@@ -1,0 +1,12 @@
+.slider-children {
+  display: inline-block;
+  white-space: nowrap;
+}
+.item {
+  width: 128px;
+  height: 200px;
+  display: inline-block;
+  border: 1px solid red;
+  box-sizing: border-box;
+  background-color: azure;
+}
